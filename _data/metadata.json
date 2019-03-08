@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Kam Black",
+  "url": "https://epic-turing-37eb4d.netlify.com/",
+  "description": "Some website by some guy with these things he writes.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Some website by some guy with these things he writes.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://epic-turing-37eb4d.netlify.com/feed/feed.xml",
+    "id": "https://epic-turing-37eb4d.netlify.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Kam Black",
+    "email": "me@kam.black"
   }
 }
